@@ -1,5 +1,5 @@
 """
-# 01. Stationeries Nested List Manipulation
+# 01. Nested List Manipulation
 
 This script demonstrates various operations on a nested list structure in Python.
 
